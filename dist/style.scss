@@ -1,0 +1,75 @@
+
+body{
+    background-color: #2A2A2E;
+}
+
+#main{
+    margin:5px 5px 5px 5px;
+    padding:0;
+    
+}
+
+.loginFormContainer{
+    margin:auto;
+    width:20%;
+    padding: 30px 65px 0px 20px;
+
+    .textbox{
+        border: none;
+        background: none;
+        outline: none;
+        font-size: 20px;
+        margin-top: 3vh;
+        color: #8e8e8e;
+    }
+}
+
+
+
+.logo{
+    height: 42px;
+    width: 42px;
+}
+
+.mainTitle{
+    margin:auto;
+    width: 25%;
+    font-size: 15vh;
+    font-family: 'Ubuntu', sans-serif;
+    color: #1C6923  ;
+
+    .secondaryTitle{
+        color:#B3B4C1;
+    }
+}
+
+.mainContainer{
+    margin-top: 30vh;
+}
+
+.lineInput{
+    margin-top: 5px;
+    border-style: solid;
+    border-color: #1C6923;
+    border-width:thin;
+    width: 150%;
+}
+
+.buttonContainer{
+margin-top: 7vh;
+
+    .submitButton{
+        background-color:#2A2A2E ;
+        border-style:solid;
+        border-color: #1C6923;
+        cursor: pointer;
+        color: white;
+        width: 60%;
+        height: 50px;
+        
+    }
+}
+
+
+
+
